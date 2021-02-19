@@ -11,7 +11,7 @@ and has since cemented itself as legendary.
 
 Writting this emulator was a passion-project for me. I started it with the motivation
 of potentially using this in a full NES emulator. Additionally, I wanted to test my
-C++ knowledge and learn more about 8-bit systems and how embedded hardware used tp work.
+C++ knowledge and learn more about 8-bit systems and how embedded hardware used to work.
 
 For the code-layout, I wanted to do a more "forward-thinking" way of building my classes.
 It should resemble a compartmentalized version of the physical hardware with the bus,
